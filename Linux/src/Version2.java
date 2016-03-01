@@ -14,10 +14,10 @@ public class Version2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("suse");
-        System.out.println("mandriva");
+        System.out.println("susev2");
+        System.out.println("mandrivav2");
         System.out.println("versiones numero 2");
-        System.out.println("linux");
+        System.out.println("linuxv2");
     }
     
 }
