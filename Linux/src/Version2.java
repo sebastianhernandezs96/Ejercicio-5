@@ -17,6 +17,7 @@ public class Version2 {
         System.out.println("suse");
         System.out.println("mandriva");
         System.out.println("versiones numero 2");
+        System.out.println("linux");
     }
     
 }
